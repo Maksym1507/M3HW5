@@ -1,0 +1,10 @@
+﻿namespace M3HW5
+{
+    internal class Program
+    {
+        private static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
